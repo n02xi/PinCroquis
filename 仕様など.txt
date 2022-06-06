@@ -4,7 +4,7 @@
 ・JavaScript、React
 ・DBいらない
 ・ピンタレストAPI
-
+　⇒申請中、通るか微妙
 
 
 @everyone
