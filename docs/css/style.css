@@ -1,0 +1,54 @@
+* {
+  box-sizing: border-box;
+}
+
+header h1 {
+  padding: 20px;
+  font-size: 20px;
+  font-weight: 100;
+}
+header h1 a {
+  color: #000;
+  text-decoration: none;
+}
+
+main {
+  text-align: center;
+}
+main p {
+  font-size: 100px;
+  font-weight: bold;
+}
+
+.privary-prixy {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.privary-prixy p, .privary-prixy li:last-of-type {
+  margin-bottom: 1em;
+}
+
+ul.nav-list {
+  background: #f57e38;
+  padding: 0;
+  margin-bottom: 10px;
+  text-align: center;
+}
+ul.nav-list li {
+  display: inline-block;
+}
+ul.nav-list li a {
+  display: block;
+  padding: 1em;
+  color: #fff;
+  font-size: 12px;
+  text-decoration: none;
+}
+ul.nav-list li a::first-line {
+  font-size: 16px;
+  font-weight: bold;
+}
+ul.nav-list li a:hover {
+  background: #14727e;
+}/*# sourceMappingURL=style.css.map */
