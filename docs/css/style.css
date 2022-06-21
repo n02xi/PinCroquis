@@ -1,7 +1,3 @@
-* {
-  box-sizing: border-box;
-}
-
 header h1 {
   padding: 20px;
   font-size: 20px;
@@ -50,5 +46,5 @@ ul.nav-list li a::first-line {
   font-weight: bold;
 }
 ul.nav-list li a:hover {
-  background: #14727e;
+  background: #c2503e;
 }/*# sourceMappingURL=style.css.map */
