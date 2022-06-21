@@ -2,4 +2,4 @@
 
 # dependencies
 /node_modules
-/*.txt 
+/docs/*.txt 
